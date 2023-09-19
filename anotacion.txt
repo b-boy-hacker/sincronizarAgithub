@@ -1,0 +1,2 @@
+vamos a fusionar el archivo
+Merge branch 'modificacion' into master
